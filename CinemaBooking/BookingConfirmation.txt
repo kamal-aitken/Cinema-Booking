@@ -1,0 +1,13 @@
+----------------------------------------------------------
+*******************Booking Confirmation********************
+----------------------------------------------------------
+THIS IS YOUR BOOKING CONFIRMATION! SEE YOU SOON KAMAL!! 
+ Adult Attending x2
+ Children Attending x1
+ Adult Cost= £20
+ Child Cost= £5
+ Watching= Finding Nemo
+---------------
+Total Cost: £25
+---------------
+
